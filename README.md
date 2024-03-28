@@ -1,4 +1,4 @@
-![](https://github.com/AshrafS786/Ashraf-Ali/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+
 
 <h1 align="center">👋 Hello there!, I'm Ashraf Ali</h1>
 <h3 align="center">A passionate FULL STACK WEB DEVELOPMENT & Java with DSA and Python developer. </h3>
