@@ -1,11 +1,6 @@
 
-
 <h1 align="center">👋 Hello there!, I'm Ashraf Ali</h1>
 <h3 align="center">A passionate FULL STACK WEB DEVELOPMENT & Java with DSA and Python developer. </h3>
-
-
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/0UyKyeMZHiFhuuWl-Vr0qMb25UkDMMSLJS76v78vUx4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhkM05qWTJabmIy/cHhkM1ZrTUdOcmFI/QnhkVzl2ZUhSME9U/QnVaemxuT0RKdmRY/TmxjR1Y1TkNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafs786&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafs786" /> </p>
 
